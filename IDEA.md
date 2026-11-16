@@ -1,0 +1,1 @@
+ia local no termux
